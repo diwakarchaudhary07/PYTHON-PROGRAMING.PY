@@ -27,7 +27,7 @@ my_dict =  {
 }
 
 print(my_dict)
-print(my_dict.keys())  ## accessing all keys in the dictionary
+print(my_dict.keys()) # accessing all keys in the dictionary
 
 
 # 2. values()
